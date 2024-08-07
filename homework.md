@@ -24,6 +24,7 @@ def wordcount(text):
         word_counts[word] += 1
     # 将默认字典转换为普通字典
     return dict(word_counts)
+```
 
 
 * Vscode连接InternStudio debug笔记
