@@ -27,5 +27,8 @@ def wordcount(text):
 
 
 * Vscode连接InternStudio debug  
-本地vscode连接远程开发机
+本地vscode连接远程开发机  
+![alt](homeworkpage/VScode远程连接.png)
+VScode debug
+![alt](homeworkpage/debug.png)
 
