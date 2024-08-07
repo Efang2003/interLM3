@@ -11,7 +11,6 @@
 ## Python 作业
 **结果：**
 * Python实现WordCount
-代码：
 ```python
 def wordcount(text):
     # 将文本转换为小写
@@ -27,4 +26,6 @@ def wordcount(text):
 ```
 
 
-* Vscode连接InternStudio debug笔记
+* Vscode连接InternStudio debug
+本地vscode连接远程开发机
+
